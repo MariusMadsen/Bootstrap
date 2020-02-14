@@ -1,0 +1,38 @@
+
+#title {
+  background-color: #142850;
+}
+
+.container-fluid{
+  padding: 3% 15%;
+
+}
+
+.navbar {
+  padding: 0 0 10rem;
+}
+
+.navbar-brand {
+  font-family: 'Kanit', sans-serif;
+  font-size: 3.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 1rem 0 1rem;
+}
+
+.nav-link {
+  font-size: 2rem;
+}
+
+body {
+  font-family: 'Dosis', cursive;
+}
+
+h1 {
+  font-family: Galada, cursive;
+  font-size: 5rem;
+  line-height: 1.5;
+  color: #00a8cc;
+}
